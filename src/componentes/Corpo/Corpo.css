@@ -1,0 +1,10 @@
+.corpo__html.ativo{
+    width: 82vw;
+    height: 92vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.corpo__html{
+    display: none;
+}

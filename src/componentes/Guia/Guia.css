@@ -1,0 +1,12 @@
+.listagem{
+    width: 18vw; /* 67% de 350px */
+    height: 100vh;
+    background-color: #101515;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10.05px; /* 67% de 15px */
+    margin: 0;
+    padding: 0;
+}

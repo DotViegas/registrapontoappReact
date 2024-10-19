@@ -1,0 +1,38 @@
+.corpo__listagem.aberta{
+    width: 263.5px; /* 85% de 310px */
+    height: 33.15px; /* 85% de 39px */
+    display: flex;
+    align-items: center;
+    background-color: #383c3c;
+    border-radius: 65.45px; /* 85% de 77px */
+}
+
+.corpo__listagem {
+    width: 263.5px; /* 85% de 310px */
+    height: 33.15px; /* 85% de 39px */
+    display: flex;
+    align-items: center;
+    background-color: #101515;
+    border-radius: 65.45px; /* 85% de 77px */
+    cursor: pointer;
+    position: relative;
+    transition: box-shadow 0.2s ease; /* Transição para a borda externa */
+}
+
+.listagem__item{
+    font-family: "Montserrat", sans-serif;
+    font-size: 13.6px; /* 85% de 16px */
+    color: #EDF3F3;
+    font-weight: 600;
+    margin: 0 0 0 12.75px; /* 85% de 15px */
+}
+
+.img__listagem{
+    max-width: 23.8px; /* 85% de 28px */
+    max-height: 23.8px; /* 85% de 28px */
+    margin: 0 0 0 11.9px; /* 85% de 14px */
+}
+
+.corpo__listagem:hover {
+    box-shadow: 0 0 0 2px #d9d9d9; /* Simula uma borda externa */
+}

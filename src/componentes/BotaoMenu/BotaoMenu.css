@@ -1,0 +1,15 @@
+.menu__sessao__item.foto{
+    width: 40px;
+    height: 40px;
+    background-color: #898989;
+    text-decoration: none;
+    border-radius: 100%;
+}
+
+.menu__sessao__item{
+    width: 30px;
+    height: 30px;
+    background-color: #898989;
+    text-decoration: none;
+    border-radius: 100%;
+}
